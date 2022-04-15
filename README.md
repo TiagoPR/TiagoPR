@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on my 2nd year degree on Computer Science
-- 🌱 I’m currently learning Python. Developing my Java and C skills.
+- 🌱 I’m currently learning Python. Developing my Java,Haskell and C skills.
 - 📫 How to reach me: tiagopassosrodrigues@hotmail.com
 - ⚡ Fun fact: Best F1 2021 driver 
 

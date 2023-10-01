@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on my 3rd year degree on Computer Science
+- 🔭 I’m currently working on my Master's on Software Engineering
 - 🌱 Developing my Java,Haskell,Python,C++ and C skills.
 - 📫 How to reach me: tiagopassosrodrigues@hotmail.com
 - ⚡ Fun fact: Best F1 2022 Manager 

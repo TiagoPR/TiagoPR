@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tiago</h1>
 <h3 align="center">Software Engineering Master's Student</h3>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust** and **GO**
 
 - 📫 How to reach me **tiagopassosrodrigues@hotmail.com**
 
